@@ -1,0 +1,2299 @@
+{
+  "generated": "2026-04-05",
+  "updated": "2026-04-05",
+  "note": "WGI national rankings as of 4/5/2026",
+  "summary": {
+    "a": [
+      {
+        "name": "Kings HS",
+        "location": "",
+        "score": 91.6,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 1,
+        "pr": 15
+      },
+      {
+        "name": "Alpharetta HS",
+        "location": "",
+        "score": 91.4,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 2,
+        "pr": 1
+      },
+      {
+        "name": "Pearl HS",
+        "location": "",
+        "score": 91.0,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 3,
+        "pr": 12
+      },
+      {
+        "name": "Everett HS",
+        "location": "",
+        "score": 90.65,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 4,
+        "pr": 3
+      },
+      {
+        "name": "Owen J Roberts HS",
+        "location": "",
+        "score": 90.55,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 5,
+        "pr": 4
+      },
+      {
+        "name": "Jordan-Elbridge HS",
+        "location": "",
+        "score": 90.1,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 6,
+        "pr": 6
+      },
+      {
+        "name": "E.D. White Catholic HS",
+        "location": "",
+        "score": 89.2,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 7,
+        "pr": 7
+      },
+      {
+        "name": "Choctawhatchee HS",
+        "location": "",
+        "score": 89.0,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 8,
+        "pr": 5
+      },
+      {
+        "name": "John C. Birdlebough HS",
+        "location": "",
+        "score": 88.9,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 9,
+        "pr": 9
+      },
+      {
+        "name": "Temple City HS",
+        "location": "",
+        "score": 88.85,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 10,
+        "pr": 2
+      },
+      {
+        "name": "Fleming Island HS",
+        "location": "",
+        "score": 88.325,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 11,
+        "pr": 27
+      },
+      {
+        "name": "Monarch HS",
+        "location": "",
+        "score": 87.375,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 12,
+        "pr": 28
+      },
+      {
+        "name": "Sycamore HS",
+        "location": "",
+        "score": 87.3,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 13,
+        "pr": 30
+      },
+      {
+        "name": "Kickapoo HS",
+        "location": "",
+        "score": 87.2,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 14,
+        "pr": 10
+      },
+      {
+        "name": "East Coweta HS",
+        "location": "",
+        "score": 86.788,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 15,
+        "pr": 19
+      },
+      {
+        "name": "Central HS",
+        "location": "",
+        "score": 86.75,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 16,
+        "pr": 11
+      },
+      {
+        "name": "Central Crossing HS",
+        "location": "",
+        "score": 86.6,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 17,
+        "pr": 46
+      },
+      {
+        "name": "Enloe Magnet HS",
+        "location": "",
+        "score": 86.425,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 18,
+        "pr": 38
+      },
+      {
+        "name": "North Allegheny HS",
+        "location": "",
+        "score": 86.42,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 19,
+        "pr": 13
+      },
+      {
+        "name": "Hardin Valley Academy",
+        "location": "",
+        "score": 86.4,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 20,
+        "pr": 9
+      },
+      {
+        "name": "Central Dauphin HS",
+        "location": "",
+        "score": 86.2,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 21,
+        "pr": 53
+      },
+      {
+        "name": "Olentangy Liberty HS",
+        "location": "",
+        "score": 86.2,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 22,
+        "pr": 29
+      },
+      {
+        "name": "Troy HS",
+        "location": "",
+        "score": 85.95,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 23,
+        "pr": 39
+      },
+      {
+        "name": "Upper Moreland HS",
+        "location": "",
+        "score": 85.63,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 24,
+        "pr": 14
+      },
+      {
+        "name": "Downingtown East HS",
+        "location": "",
+        "score": 85.55,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 25,
+        "pr": 16
+      },
+      {
+        "name": "Hamilton Southeastern HS",
+        "location": "",
+        "score": 85.4,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 26,
+        "pr": 21
+      },
+      {
+        "name": "Liverpool HS",
+        "location": "",
+        "score": 85.4,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 27,
+        "pr": 8
+      },
+      {
+        "name": "New Hartford HS",
+        "location": "",
+        "score": 85.325,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 28,
+        "pr": 15
+      },
+      {
+        "name": "Mansfield HS",
+        "location": "",
+        "score": 85.25,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 29,
+        "pr": 18
+      },
+      {
+        "name": "Glencoe Combined Schools",
+        "location": "",
+        "score": 85.2,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 30,
+        "pr": 17
+      },
+      {
+        "name": "Ponte Vedra HS",
+        "location": "",
+        "score": 85.15,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 31,
+        "pr": 25
+      },
+      {
+        "name": "Lakeway Christian Academy",
+        "location": "",
+        "score": 85.0,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 32,
+        "pr": 20
+      },
+      {
+        "name": "Weatherford HS",
+        "location": "",
+        "score": 84.95,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 33,
+        "pr": 22
+      },
+      {
+        "name": "Osseo Area Combined",
+        "location": "",
+        "score": 84.575,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 34,
+        "pr": 23
+      },
+      {
+        "name": "Bellbrook HS",
+        "location": "",
+        "score": 84.43,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 35,
+        "pr": 50
+      },
+      {
+        "name": "Springboro HS",
+        "location": "",
+        "score": 83.8,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 36,
+        "pr": 26
+      },
+      {
+        "name": "Starkville HS",
+        "location": "",
+        "score": 83.075,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 37,
+        "pr": 44
+      },
+      {
+        "name": "Dennis-Yarmouth HS",
+        "location": "",
+        "score": 82.85,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 38,
+        "pr": 36
+      },
+      {
+        "name": "Unionville HS",
+        "location": "",
+        "score": 82.84,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 39,
+        "pr": 31
+      },
+      {
+        "name": "Oak Grove HS",
+        "location": "",
+        "score": 81.5,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 40,
+        "pr": 37
+      },
+      {
+        "name": "Williams Field HS",
+        "location": "",
+        "score": 81.2,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 41,
+        "pr": 37
+      },
+      {
+        "name": "South Albany HS",
+        "location": "",
+        "score": 80.9,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 42,
+        "pr": 34
+      },
+      {
+        "name": "Bridgewater Raritan HS",
+        "location": "",
+        "score": 80.9,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 43,
+        "pr": 40
+      },
+      {
+        "name": "Lake Orion HS",
+        "location": "",
+        "score": 80.1,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 44,
+        "pr": 41
+      },
+      {
+        "name": "South Lakes HS",
+        "location": "",
+        "score": 80.075,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 45,
+        "pr": 52
+      },
+      {
+        "name": "Warren Central HS",
+        "location": "",
+        "score": 80.025,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 46,
+        "pr": null
+      },
+      {
+        "name": "Perkiomen Valley HS",
+        "location": "",
+        "score": 79.6,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 47,
+        "pr": 43
+      },
+      {
+        "name": "Stoneman Douglas HS",
+        "location": "",
+        "score": 79.598,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 48,
+        "pr": 56
+      },
+      {
+        "name": "Green Level HS",
+        "location": "",
+        "score": 79.425,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 49,
+        "pr": 35
+      },
+      {
+        "name": "Highland Regional HS",
+        "location": "",
+        "score": 79.25,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 50,
+        "pr": 45
+      },
+      {
+        "name": "Live Oak HS",
+        "location": "",
+        "score": 78.8,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 51,
+        "pr": 48
+      },
+      {
+        "name": "Ross HS",
+        "location": "",
+        "score": 77.6,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 52,
+        "pr": 49
+      },
+      {
+        "name": "Columbus HS",
+        "location": "",
+        "score": 77.4,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 53,
+        "pr": 42
+      },
+      {
+        "name": "Decatur Central HS",
+        "location": "",
+        "score": 76.525,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 54,
+        "pr": 51
+      },
+      {
+        "name": "Findlay HS",
+        "location": "",
+        "score": 74.2,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 55,
+        "pr": 58
+      },
+      {
+        "name": "Xenia HS",
+        "location": "",
+        "score": 70.55,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 56,
+        "pr": 55
+      },
+      {
+        "name": "Terre Haute North HS",
+        "location": "",
+        "score": 64.81,
+        "circuit": "PSA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 57,
+        "pr": 57
+      }
+    ],
+    "pia": [
+      {
+        "name": "Nomad Indoor",
+        "location": "",
+        "score": 90.95,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 1,
+        "pr": null
+      },
+      {
+        "name": "Francis Howell Percussion",
+        "location": "",
+        "score": 90.55,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 2,
+        "pr": null
+      },
+      {
+        "name": "North Star Independent",
+        "location": "",
+        "score": 87.3,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 3,
+        "pr": null
+      },
+      {
+        "name": "Ravenwood Indoor",
+        "location": "",
+        "score": 87.1,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 4,
+        "pr": null
+      },
+      {
+        "name": "Horizon Percussion",
+        "location": "",
+        "score": 85.82,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 5,
+        "pr": null
+      },
+      {
+        "name": "202 Indoor Percussion",
+        "location": "",
+        "score": 85.2,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 6,
+        "pr": null
+      },
+      {
+        "name": "South County Combined",
+        "location": "",
+        "score": 85.05,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 7,
+        "pr": null
+      },
+      {
+        "name": "Pi Percussion",
+        "location": "",
+        "score": 84.175,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 8,
+        "pr": null
+      },
+      {
+        "name": "Lake Effect Percussion",
+        "location": "",
+        "score": 83.5,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 9,
+        "pr": null
+      },
+      {
+        "name": "Vortex Percussion",
+        "location": "",
+        "score": 82.85,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 10,
+        "pr": null
+      },
+      {
+        "name": "Spark Percussion",
+        "location": "",
+        "score": 82.65,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 11,
+        "pr": null
+      },
+      {
+        "name": "Revelation A",
+        "location": "",
+        "score": 82.5,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 12,
+        "pr": null
+      },
+      {
+        "name": "Albemarle County Indoor",
+        "location": "",
+        "score": 80.625,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 13,
+        "pr": null
+      },
+      {
+        "name": "Legacy Percussion",
+        "location": "",
+        "score": 80.5,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 14,
+        "pr": null
+      },
+      {
+        "name": "Breakwater Performing Arts",
+        "location": "",
+        "score": 79.85,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 15,
+        "pr": null
+      },
+      {
+        "name": "Boise Gems Independent",
+        "location": "",
+        "score": 79.4,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 16,
+        "pr": null
+      },
+      {
+        "name": "East Mississippi Em-pact",
+        "location": "",
+        "score": 78.8,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 17,
+        "pr": null
+      },
+      {
+        "name": "Carolina Storm",
+        "location": "",
+        "score": 77.5,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 18,
+        "pr": null
+      },
+      {
+        "name": "Palmetto Indoor Theatre",
+        "location": "",
+        "score": 76.375,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 19,
+        "pr": null
+      },
+      {
+        "name": "IGNITE Winter Percussion",
+        "location": "",
+        "score": 76.05,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 20,
+        "pr": null
+      },
+      {
+        "name": "NorthCoast Academy",
+        "location": "",
+        "score": 75.95,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 21,
+        "pr": null
+      },
+      {
+        "name": "Saints Indoor Percussion",
+        "location": "",
+        "score": 69.35,
+        "circuit": "PIA",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 22,
+        "pr": null
+      }
+    ],
+    "open": [
+      {
+        "name": "West Shore School District",
+        "location": "",
+        "score": 90.85,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 1,
+        "pr": null
+      },
+      {
+        "name": "Norwalk HS",
+        "location": "",
+        "score": 90.45,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 2,
+        "pr": null
+      },
+      {
+        "name": "Auburn HS",
+        "location": "",
+        "score": 90.125,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 3,
+        "pr": null
+      },
+      {
+        "name": "Zionsville Community HS",
+        "location": "",
+        "score": 89.775,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 4,
+        "pr": null
+      },
+      {
+        "name": "Victor J. Andrew HS",
+        "location": "",
+        "score": 89.5,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 5,
+        "pr": null
+      },
+      {
+        "name": "Legacy HS",
+        "location": "",
+        "score": 89.425,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 6,
+        "pr": null
+      },
+      {
+        "name": "Hempfield HS",
+        "location": "",
+        "score": 89.15,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 7,
+        "pr": null
+      },
+      {
+        "name": "Noblesville HS",
+        "location": "",
+        "score": 89.025,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 8,
+        "pr": null
+      },
+      {
+        "name": "Southlake Carroll HS",
+        "location": "",
+        "score": 88.7,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 9,
+        "pr": null
+      },
+      {
+        "name": "Central Lafourche HS",
+        "location": "",
+        "score": 88.2,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 10,
+        "pr": null
+      },
+      {
+        "name": "Mechanicsburg HS",
+        "location": "",
+        "score": 87.75,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 11,
+        "pr": null
+      },
+      {
+        "name": "Eden Prairie HS",
+        "location": "",
+        "score": 87.6,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 12,
+        "pr": null
+      },
+      {
+        "name": "Trumbull HS",
+        "location": "",
+        "score": 87.5,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 13,
+        "pr": null
+      },
+      {
+        "name": "Arbor View HS",
+        "location": "",
+        "score": 87.2,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 14,
+        "pr": null
+      },
+      {
+        "name": "Irondale Combined Schools",
+        "location": "",
+        "score": 87.2,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 15,
+        "pr": null
+      },
+      {
+        "name": "Pacifica HS",
+        "location": "",
+        "score": 86.925,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 16,
+        "pr": null
+      },
+      {
+        "name": "Jordan HS",
+        "location": "",
+        "score": 86.55,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 17,
+        "pr": null
+      },
+      {
+        "name": "Brandon Valley HS",
+        "location": "",
+        "score": 86.25,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 18,
+        "pr": null
+      },
+      {
+        "name": "Hernando HS",
+        "location": "",
+        "score": 86.2,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 19,
+        "pr": null
+      },
+      {
+        "name": "Greenfield-Central HS",
+        "location": "",
+        "score": 85.875,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 20,
+        "pr": null
+      },
+      {
+        "name": "New Milford HS",
+        "location": "",
+        "score": 85.68,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 21,
+        "pr": null
+      },
+      {
+        "name": "Hudsonville HS",
+        "location": "",
+        "score": 85.4,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 22,
+        "pr": null
+      },
+      {
+        "name": "Thomas Jefferson HS",
+        "location": "",
+        "score": 85.25,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 23,
+        "pr": null
+      },
+      {
+        "name": "Beavercreek HS",
+        "location": "",
+        "score": 85.15,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 24,
+        "pr": null
+      },
+      {
+        "name": "North Penn HS",
+        "location": "",
+        "score": 85.15,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 25,
+        "pr": null
+      },
+      {
+        "name": "Pace HS",
+        "location": "",
+        "score": 84.85,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 26,
+        "pr": null
+      },
+      {
+        "name": "Sparkman HS",
+        "location": "",
+        "score": 84.7,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 27,
+        "pr": null
+      },
+      {
+        "name": "Sonia Sotomayor HS",
+        "location": "",
+        "score": 84.65,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 28,
+        "pr": null
+      },
+      {
+        "name": "Saginaw HS",
+        "location": "",
+        "score": 84.4,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 29,
+        "pr": null
+      },
+      {
+        "name": "South Forsyth HS",
+        "location": "",
+        "score": 84.2,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 30,
+        "pr": null
+      },
+      {
+        "name": "Goshen HS",
+        "location": "",
+        "score": 84.088,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 31,
+        "pr": null
+      },
+      {
+        "name": "Franklin Community HS",
+        "location": "",
+        "score": 83.963,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 32,
+        "pr": null
+      },
+      {
+        "name": "Papillion-La Vista South HS",
+        "location": "",
+        "score": 83.9,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 33,
+        "pr": null
+      },
+      {
+        "name": "Chisholm Trail HS",
+        "location": "",
+        "score": 83.72,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 34,
+        "pr": null
+      },
+      {
+        "name": "Kettering Fairmont HS",
+        "location": "",
+        "score": 83.4,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 35,
+        "pr": null
+      },
+      {
+        "name": "Centerville HS",
+        "location": "",
+        "score": 83.3,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 36,
+        "pr": null
+      },
+      {
+        "name": "Plymouth-Canton Educational Park",
+        "location": "",
+        "score": 83.1,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 37,
+        "pr": null
+      },
+      {
+        "name": "Victor HS",
+        "location": "",
+        "score": 82.85,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 38,
+        "pr": null
+      },
+      {
+        "name": "Halls HS",
+        "location": "",
+        "score": 82.65,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 39,
+        "pr": null
+      },
+      {
+        "name": "Northview HS",
+        "location": "",
+        "score": 82.45,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 40,
+        "pr": null
+      },
+      {
+        "name": "Warren Central HS",
+        "location": "",
+        "score": 82.225,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 41,
+        "pr": null
+      },
+      {
+        "name": "Bob Jones HS",
+        "location": "",
+        "score": 82.0,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 42,
+        "pr": null
+      },
+      {
+        "name": "Spring-Ford HS",
+        "location": "",
+        "score": 81.95,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 43,
+        "pr": null
+      },
+      {
+        "name": "Boswell HS",
+        "location": "",
+        "score": 81.92,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 44,
+        "pr": null
+      },
+      {
+        "name": "Germantown HS",
+        "location": "",
+        "score": 81.375,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 45,
+        "pr": null
+      },
+      {
+        "name": "Gulfport HS",
+        "location": "",
+        "score": 81.25,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 46,
+        "pr": null
+      },
+      {
+        "name": "Chattahoochee HS",
+        "location": "",
+        "score": 80.963,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 47,
+        "pr": null
+      },
+      {
+        "name": "Southmoore HS",
+        "location": "",
+        "score": 80.3,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 48,
+        "pr": null
+      },
+      {
+        "name": "Tupelo HS",
+        "location": "",
+        "score": 80.2,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 49,
+        "pr": null
+      },
+      {
+        "name": "Downingtown West HS",
+        "location": "",
+        "score": 80.05,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 50,
+        "pr": null
+      },
+      {
+        "name": "Plainfield HS",
+        "location": "",
+        "score": 78.925,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 51,
+        "pr": null
+      },
+      {
+        "name": "Southport HS",
+        "location": "",
+        "score": 77.975,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 52,
+        "pr": null
+      },
+      {
+        "name": "Westfield HS",
+        "location": "",
+        "score": 74.91,
+        "circuit": "PSO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 53,
+        "pr": null
+      }
+    ],
+    "pio": [
+      {
+        "name": "Cap City 2",
+        "location": "",
+        "score": 93.05,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 1,
+        "pr": null
+      },
+      {
+        "name": "Veritas",
+        "location": "",
+        "score": 90.375,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 2,
+        "pr": null
+      },
+      {
+        "name": "UTSA",
+        "location": "",
+        "score": 90.25,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 3,
+        "pr": null
+      },
+      {
+        "name": "Sparta Indoor",
+        "location": "",
+        "score": 90.25,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 4,
+        "pr": null
+      },
+      {
+        "name": "Paradigm Percussion",
+        "location": "",
+        "score": 89.35,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 5,
+        "pr": null
+      },
+      {
+        "name": "Gold Spike Percussion",
+        "location": "",
+        "score": 88.85,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 6,
+        "pr": null
+      },
+      {
+        "name": "Modulation Z",
+        "location": "",
+        "score": 88.85,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 7,
+        "pr": null
+      },
+      {
+        "name": "Spectre Percussion",
+        "location": "",
+        "score": 88.75,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 8,
+        "pr": null
+      },
+      {
+        "name": "Matrix Open",
+        "location": "",
+        "score": 88.7,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 9,
+        "pr": null
+      },
+      {
+        "name": "Motor City Percussion",
+        "location": "",
+        "score": 88.05,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 10,
+        "pr": null
+      },
+      {
+        "name": "Infinity 3",
+        "location": "",
+        "score": 87.95,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 11,
+        "pr": null
+      },
+      {
+        "name": "Buckhorn Percussion",
+        "location": "",
+        "score": 87.9,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 12,
+        "pr": null
+      },
+      {
+        "name": "River City Rhythm",
+        "location": "",
+        "score": 87.8,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 13,
+        "pr": null
+      },
+      {
+        "name": "Q2",
+        "location": "",
+        "score": 87.625,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 14,
+        "pr": null
+      },
+      {
+        "name": "Bakersfield College",
+        "location": "",
+        "score": 87.3,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 15,
+        "pr": null
+      },
+      {
+        "name": "Imperial Dynasty",
+        "location": "",
+        "score": 87.15,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 16,
+        "pr": null
+      },
+      {
+        "name": "Freedom Percussion",
+        "location": "",
+        "score": 86.8,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 17,
+        "pr": null
+      },
+      {
+        "name": "Old Line Independent",
+        "location": "",
+        "score": 86.3,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 18,
+        "pr": null
+      },
+      {
+        "name": "Desert Vox",
+        "location": "",
+        "score": 85.45,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 19,
+        "pr": null
+      },
+      {
+        "name": "Synergy",
+        "location": "",
+        "score": 84.825,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 20,
+        "pr": null
+      },
+      {
+        "name": "OCI",
+        "location": "",
+        "score": 84.55,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 21,
+        "pr": null
+      },
+      {
+        "name": "Dakota Combined Schools",
+        "location": "",
+        "score": 84.45,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 22,
+        "pr": null
+      },
+      {
+        "name": "Siege Percussion",
+        "location": "",
+        "score": 84.088,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 23,
+        "pr": null
+      },
+      {
+        "name": "Charles Towne Percussion",
+        "location": "",
+        "score": 83.85,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 24,
+        "pr": null
+      },
+      {
+        "name": "Sun City Independent",
+        "location": "",
+        "score": 83.45,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 25,
+        "pr": null
+      },
+      {
+        "name": "United Percussion 2",
+        "location": "",
+        "score": 82.4,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 26,
+        "pr": null
+      },
+      {
+        "name": "Rock Ridge HS Combined",
+        "location": "",
+        "score": 82.325,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 27,
+        "pr": null
+      },
+      {
+        "name": "Kannapolis Independent",
+        "location": "",
+        "score": 82.205,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 28,
+        "pr": null
+      },
+      {
+        "name": "Huron Valley Percussion",
+        "location": "",
+        "score": 81.9,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 29,
+        "pr": null
+      },
+      {
+        "name": "Grandville Independent",
+        "location": "",
+        "score": 81.85,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 30,
+        "pr": null
+      },
+      {
+        "name": "Revelation Open",
+        "location": "",
+        "score": 81.6,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 31,
+        "pr": null
+      },
+      {
+        "name": "Breakthrough Indoor",
+        "location": "",
+        "score": 81.55,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 32,
+        "pr": null
+      },
+      {
+        "name": "Lotus",
+        "location": "",
+        "score": 79.4,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 33,
+        "pr": null
+      },
+      {
+        "name": "Vision Percussion",
+        "location": "",
+        "score": 79.275,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 34,
+        "pr": null
+      },
+      {
+        "name": "Rift Percussion",
+        "location": "",
+        "score": 78.95,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 35,
+        "pr": null
+      },
+      {
+        "name": "Tri-City Percussion",
+        "location": "",
+        "score": 78.5,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 36,
+        "pr": null
+      },
+      {
+        "name": "Convergence Indoor",
+        "location": "",
+        "score": 78.15,
+        "circuit": "PIO",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 37,
+        "pr": null
+      }
+    ],
+    "world": [
+      {
+        "name": "Arcadia HS",
+        "location": "",
+        "score": 93.55,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 1,
+        "pr": null
+      },
+      {
+        "name": "Avon HS",
+        "location": "",
+        "score": 93.425,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 2,
+        "pr": null
+      },
+      {
+        "name": "Chino Hills HS",
+        "location": "",
+        "score": 93.4,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 3,
+        "pr": null
+      },
+      {
+        "name": "Burleson Centennial HS",
+        "location": "",
+        "score": 92.85,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 4,
+        "pr": null
+      },
+      {
+        "name": "Vista Murrieta HS",
+        "location": "",
+        "score": 92.775,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 5,
+        "pr": null
+      },
+      {
+        "name": "Ayala HS",
+        "location": "",
+        "score": 92.3,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 6,
+        "pr": null
+      },
+      {
+        "name": "Center Grove HS",
+        "location": "",
+        "score": 92.1,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 7,
+        "pr": null
+      },
+      {
+        "name": "Clear Brook HS",
+        "location": "",
+        "score": 90.6,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 8,
+        "pr": null
+      },
+      {
+        "name": "Cy-Fair HS",
+        "location": "",
+        "score": 90.55,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 9,
+        "pr": null
+      },
+      {
+        "name": "Broken Arrow HS",
+        "location": "",
+        "score": 89.7,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 10,
+        "pr": null
+      },
+      {
+        "name": "James Logan HS",
+        "location": "",
+        "score": 89.6,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 11,
+        "pr": null
+      },
+      {
+        "name": "Buchanan HS",
+        "location": "",
+        "score": 89.5,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 12,
+        "pr": null
+      },
+      {
+        "name": "Bridgeland HS",
+        "location": "",
+        "score": 89.4,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 13,
+        "pr": null
+      },
+      {
+        "name": "Saratoga HS",
+        "location": "",
+        "score": 88.4,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 14,
+        "pr": null
+      },
+      {
+        "name": "Dorman HS",
+        "location": "",
+        "score": 88.15,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 15,
+        "pr": null
+      },
+      {
+        "name": "Fishers HS",
+        "location": "",
+        "score": 87.975,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 16,
+        "pr": null
+      },
+      {
+        "name": "Etiwanda HS",
+        "location": "",
+        "score": 87.75,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 17,
+        "pr": null
+      },
+      {
+        "name": "Milton HS",
+        "location": "",
+        "score": 86.2,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 18,
+        "pr": null
+      },
+      {
+        "name": "Walled Lake Consolidated",
+        "location": "",
+        "score": 85.55,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 19,
+        "pr": null
+      },
+      {
+        "name": "Brownsburg HS",
+        "location": "",
+        "score": 85.175,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 20,
+        "pr": null
+      },
+      {
+        "name": "Foothill HS",
+        "location": "",
+        "score": 84.7,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 21,
+        "pr": null
+      },
+      {
+        "name": "Fair Lawn HS",
+        "location": "",
+        "score": 84.6,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 22,
+        "pr": null
+      },
+      {
+        "name": "Franklin Central HS",
+        "location": "",
+        "score": 83.2,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 23,
+        "pr": null
+      },
+      {
+        "name": "Mt. Juliet Combined",
+        "location": "",
+        "score": 82.85,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 24,
+        "pr": null
+      },
+      {
+        "name": "Carroll HS",
+        "location": "",
+        "score": 82.75,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 25,
+        "pr": null
+      },
+      {
+        "name": "Greenwood HS",
+        "location": "",
+        "score": 81.075,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 26,
+        "pr": null
+      },
+      {
+        "name": "Homestead HS",
+        "location": "",
+        "score": 77.35,
+        "circuit": "PSW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 27,
+        "pr": null
+      }
+    ],
+    "piw": [
+      {
+        "name": "Rhythm X",
+        "location": "",
+        "score": 96.15,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 1,
+        "pr": null
+      },
+      {
+        "name": "Music City Mystique",
+        "location": "",
+        "score": 95.25,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 2,
+        "pr": null
+      },
+      {
+        "name": "Pulse Percussion",
+        "location": "",
+        "score": 94.85,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 3,
+        "pr": null
+      },
+      {
+        "name": "RCC",
+        "location": "",
+        "score": 94.5,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 4,
+        "pr": null
+      },
+      {
+        "name": "Infinity",
+        "location": "",
+        "score": 94.4,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 5,
+        "pr": null
+      },
+      {
+        "name": "Broken City",
+        "location": "",
+        "score": 92.85,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 6,
+        "pr": null
+      },
+      {
+        "name": "George Mason University",
+        "location": "",
+        "score": 92.3,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 7,
+        "pr": null
+      },
+      {
+        "name": "Matrix",
+        "location": "",
+        "score": 92.2,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 8,
+        "pr": null
+      },
+      {
+        "name": "Cap City",
+        "location": "",
+        "score": 91.85,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 9,
+        "pr": null
+      },
+      {
+        "name": "STRYKE Percussion",
+        "location": "",
+        "score": 89.85,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 10,
+        "pr": null
+      },
+      {
+        "name": "Redline",
+        "location": "",
+        "score": 89.85,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 11,
+        "pr": null
+      },
+      {
+        "name": "Rhythmic Force",
+        "location": "",
+        "score": 89.745,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 12,
+        "pr": null
+      },
+      {
+        "name": "Atlanta Quest",
+        "location": "",
+        "score": 89.45,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 13,
+        "pr": null
+      },
+      {
+        "name": "POW Percussion",
+        "location": "",
+        "score": 88.65,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 14,
+        "pr": null
+      },
+      {
+        "name": "ConneXus",
+        "location": "",
+        "score": 88.15,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 15,
+        "pr": null
+      },
+      {
+        "name": "Blue Knights",
+        "location": "",
+        "score": 87.825,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 16,
+        "pr": null
+      },
+      {
+        "name": "United Percussion",
+        "location": "",
+        "score": 87.75,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 17,
+        "pr": null
+      },
+      {
+        "name": "Civitas Independent",
+        "location": "",
+        "score": 87.65,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 18,
+        "pr": null
+      },
+      {
+        "name": "Dark Sky Percussion",
+        "location": "",
+        "score": 86.75,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 19,
+        "pr": null
+      },
+      {
+        "name": "MBI Indoor Percussion",
+        "location": "",
+        "score": 86.7,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 20,
+        "pr": null
+      },
+      {
+        "name": "Red Wave Indoor",
+        "location": "",
+        "score": 86.65,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 21,
+        "pr": null
+      },
+      {
+        "name": "Infinity 2",
+        "location": "",
+        "score": 86.625,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 22,
+        "pr": null
+      },
+      {
+        "name": "IMPACT Percussion",
+        "location": "",
+        "score": 86.35,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 23,
+        "pr": null
+      },
+      {
+        "name": "Meraki",
+        "location": "",
+        "score": 86.1,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 24,
+        "pr": null
+      },
+      {
+        "name": "Vigilantes Indoor",
+        "location": "",
+        "score": 85.925,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 25,
+        "pr": null
+      },
+      {
+        "name": "Monarch Independent",
+        "location": "",
+        "score": 85.3,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 26,
+        "pr": null
+      },
+      {
+        "name": "Audio Theater",
+        "location": "",
+        "score": 84.9,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 27,
+        "pr": null
+      },
+      {
+        "name": "Kaizen",
+        "location": "",
+        "score": 84.1,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 28,
+        "pr": null
+      },
+      {
+        "name": "Rise Percussion",
+        "location": "",
+        "score": 82.9,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 29,
+        "pr": null
+      },
+      {
+        "name": "Flux Indoor Percussion",
+        "location": "",
+        "score": 82.85,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 30,
+        "pr": null
+      },
+      {
+        "name": "Resistance Indoor",
+        "location": "",
+        "score": 81.405,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 31,
+        "pr": null
+      },
+      {
+        "name": "Instinct",
+        "location": "",
+        "score": 81.2,
+        "circuit": "PIW",
+        "event": "WGI Rankings",
+        "date": "2026-04-05",
+        "rank": 32,
+        "pr": null
+      }
+    ]
+  }
+}
