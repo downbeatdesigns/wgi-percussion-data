@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-09T12:16:59",
+  "generated": "2026-04-09T12:23:21",
   "date": "2026-04-09",
   "season": 2026,
   "sport": "color_guard",
@@ -7,7 +7,7 @@
     "Independent A": [
       {
         "class": "Independent A",
-        "event": "2026 2026 IA Prelims - Round 1",
+        "event": "2026 IA Prelims - Round 1",
         "date": "2026-04-09",
         "location": "",
         "circuit": "WGI",
@@ -64,12 +64,72 @@
             "score": 74.31
           }
         ]
+      },
+      {
+        "class": "Independent A",
+        "event": "2026 IA Prelims - Round 2",
+        "date": "2026-04-09",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Glencoe HS",
+            "score": 88.79
+          },
+          {
+            "rank": 2,
+            "group": "JMU Nuance A",
+            "score": 87.08
+          },
+          {
+            "rank": 3,
+            "group": "Revival Winter Guard",
+            "score": 86.57
+          },
+          {
+            "rank": 4,
+            "group": "Avant Guard from the University of Arkansas",
+            "score": 84.89
+          },
+          {
+            "rank": 5,
+            "group": "Montage",
+            "score": 82.4
+          },
+          {
+            "rank": 6,
+            "group": "Viridian Winter Guard",
+            "score": 81.88
+          },
+          {
+            "rank": 7,
+            "group": "Farmington Lakeville Area Guard A",
+            "score": 79.48
+          },
+          {
+            "rank": 8,
+            "group": "DTX Independent",
+            "score": 76.05
+          },
+          {
+            "rank": 9,
+            "group": "ICT Independent",
+            "score": 75.94
+          },
+          {
+            "rank": 10,
+            "group": "Lyra Winterguard",
+            "score": 75.37
+          }
+        ]
       }
     ],
     "Independent Open": [
       {
         "class": "Independent Open",
-        "event": "2026 2026 IO Prelims - UD Arena - Round 2",
+        "event": "2026 IO Prelims - UD Arena - Round 2",
         "date": "2026-04-09",
         "location": "",
         "circuit": "WGI",
@@ -126,13 +186,78 @@
             "score": 75.2
           }
         ]
+      },
+      {
+        "class": "Independent Open",
+        "event": "2026 IO Prelims - UD Arena - Round 4",
+        "date": "2026-04-09",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "First Flight",
+            "score": 94.2
+          },
+          {
+            "rank": 2,
+            "group": "George Mason University Winterguard",
+            "score": 89.4
+          },
+          {
+            "rank": 3,
+            "group": "NOVA Independent Winterguard",
+            "score": 88.3
+          },
+          {
+            "rank": 4,
+            "group": "Purdue University",
+            "score": 86.0
+          },
+          {
+            "rank": 5,
+            "group": "Vestige",
+            "score": 85.8
+          },
+          {
+            "rank": 6,
+            "group": "Main Line Independent",
+            "score": 85.1
+          },
+          {
+            "rank": 7,
+            "group": "i-Squared",
+            "score": 82.5
+          },
+          {
+            "rank": 8,
+            "group": "Top Hats",
+            "score": 82.1
+          },
+          {
+            "rank": 9,
+            "group": "Aureus Winterguard",
+            "score": 79.5
+          },
+          {
+            "rank": 10,
+            "group": "Cascadia Winterguard",
+            "score": 77.0
+          },
+          {
+            "rank": 11,
+            "group": "Salt Lake Independent",
+            "score": 73.2
+          }
+        ]
       }
     ],
     "Independent World": [],
     "Scholastic A": [
       {
         "class": "Scholastic A",
-        "event": "2026 2026 SA Prelims - Truist Arena - Round 2",
+        "event": "2026 SA Prelims - Truist Arena - Round 2",
         "date": "2026-04-09",
         "location": "",
         "circuit": "WGI",
@@ -189,12 +314,187 @@
             "score": 71.98
           }
         ]
+      },
+      {
+        "class": "Scholastic A",
+        "event": "2026 SA Prelims - Truist Arena - Round 4",
+        "date": "2026-04-09",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Diamond Bar HS",
+            "score": 91.33
+          },
+          {
+            "rank": 2,
+            "group": "South Oldham HS",
+            "score": 88.39
+          },
+          {
+            "rank": 3,
+            "group": "Lafayette HS (MO)",
+            "score": 86.8
+          },
+          {
+            "rank": 4,
+            "group": "Middletown HS",
+            "score": 86.52
+          },
+          {
+            "rank": 5,
+            "group": "West Milford HS",
+            "score": 86.19
+          },
+          {
+            "rank": 6,
+            "group": "University HS (Orange City FL)",
+            "score": 82.28
+          },
+          {
+            "rank": 7,
+            "group": "Mustang HS Varsity",
+            "score": 79.52
+          },
+          {
+            "rank": 8,
+            "group": "Hudsonville HS",
+            "score": 77.81
+          },
+          {
+            "rank": 9,
+            "group": "Jamestown HS",
+            "score": 74.83
+          }
+        ]
+      },
+      {
+        "class": "Scholastic A",
+        "event": "2026 SA Prelims - Cintas Center - Round 1",
+        "date": "2026-04-09",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Salem HS",
+            "score": 91.14
+          },
+          {
+            "rank": 2,
+            "group": "Lassiter HS",
+            "score": 90.59
+          },
+          {
+            "rank": 3,
+            "group": "Elizabethtown HS",
+            "score": 87.3
+          },
+          {
+            "rank": 4,
+            "group": "Wakeland HS",
+            "score": 85.88
+          },
+          {
+            "rank": 5,
+            "group": "Francis Howell HS",
+            "score": 85.09
+          },
+          {
+            "rank": 6,
+            "group": "Greece HS",
+            "score": 81.12
+          },
+          {
+            "rank": 7,
+            "group": "Terre Haute South HS",
+            "score": 79.51
+          },
+          {
+            "rank": 8,
+            "group": "Westlake HS (LA)",
+            "score": 77.48
+          },
+          {
+            "rank": 9,
+            "group": "Decatur Central HS",
+            "score": 76.96
+          },
+          {
+            "rank": 10,
+            "group": "Central Square HS",
+            "score": 75.67
+          }
+        ]
+      },
+      {
+        "class": "Scholastic A",
+        "event": "2026 SA Prelims - Cintas Center - Round 3",
+        "date": "2026-04-09",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Southington HS",
+            "score": 91.65
+          },
+          {
+            "rank": 2,
+            "group": "Cambridge HS",
+            "score": 89.31
+          },
+          {
+            "rank": 3,
+            "group": "Milton HS (GA)",
+            "score": 84.5
+          },
+          {
+            "rank": 4,
+            "group": "Tomball HS",
+            "score": 83.47
+          },
+          {
+            "rank": 5,
+            "group": "Upper Moreland HS",
+            "score": 83.08
+          },
+          {
+            "rank": 6,
+            "group": "Catawba Ridge HS Varsity",
+            "score": 80.46
+          },
+          {
+            "rank": 7,
+            "group": "Homestead HS Varsity (CA)",
+            "score": 79.99
+          },
+          {
+            "rank": 8,
+            "group": "Ocean Lakes HS",
+            "score": 78.38
+          },
+          {
+            "rank": 9,
+            "group": "South Forsyth HS",
+            "score": 75.67
+          },
+          {
+            "rank": 10,
+            "group": "Terre Haute North",
+            "score": 71.65
+          }
+        ]
       }
     ],
     "Scholastic Open": [
       {
         "class": "Scholastic Open",
-        "event": "2026 2026 SO Prelims - Round 1",
+        "event": "2026 SO Prelims - Round 1",
         "date": "2026-04-09",
         "location": "",
         "circuit": "WGI",
@@ -239,6 +539,56 @@
             "rank": 8,
             "group": "Naperville Central HS",
             "score": 80.6
+          }
+        ]
+      },
+      {
+        "class": "Scholastic Open",
+        "event": "2026 SO Prelims - Round 2",
+        "date": "2026-04-09",
+        "location": "",
+        "circuit": "WGI",
+        "recap_url": "",
+        "results": [
+          {
+            "rank": 1,
+            "group": "Dobyns-Bennett HS",
+            "score": 90.2
+          },
+          {
+            "rank": 2,
+            "group": "Amador Valley HS",
+            "score": 90.1
+          },
+          {
+            "rank": 3,
+            "group": "Southmoore HS",
+            "score": 87.1
+          },
+          {
+            "rank": 4,
+            "group": "Arlington HS (NY)",
+            "score": 85.0
+          },
+          {
+            "rank": 4,
+            "group": "Clear Brook HS",
+            "score": 85.0
+          },
+          {
+            "rank": 6,
+            "group": "William R Boone HS",
+            "score": 83.0
+          },
+          {
+            "rank": 7,
+            "group": "Woodbridge HS",
+            "score": 79.4
+          },
+          {
+            "rank": 8,
+            "group": "Somerset Academy",
+            "score": 78.2
           }
         ]
       }
